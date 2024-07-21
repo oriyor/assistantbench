@@ -7,7 +7,7 @@
 </p>
 
 ### ⛰️ Dataset and leaderboard
-To start working on AssistantBench, please check out our HuggingFace [dataset]([https://huggingface.co/datasetre/AssistantBench/AssistantBench](https://huggingface.co/datasets/AssistantBench/AssistantBench) and [leaderboard](https://huggingface.co/spaces/AssistantBench/leaderboard), where you can also make new submissions.
+To start working on AssistantBench, please check out our HuggingFace [dataset](https://huggingface.co/datasets/AssistantBench/AssistantBench) and [leaderboard](https://huggingface.co/spaces/AssistantBench/leaderboard), where you can also make new submissions.
 
 ### 🤖 SPA
 We also introduce SeePlanAct (SPA), a new web agent built to tackle tasks in AssistantAgent. Code to run SPA and additional resources will be released soon!
