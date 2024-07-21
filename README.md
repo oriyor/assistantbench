@@ -10,8 +10,6 @@ To start working on AssistantBench, please check out our HuggingFace [dataset](h
 ### 🤖 SPA
 We also introduce SeePlanAct (SPA), a new web agent built to tackle tasks in AssistantAgent. Code to run SPA and additional resources will be released soon!
 
-![Alt text](images/spa.png?raw=true "SPA")
-
 ### ✍ Citation
 ```
 @article{yoran-etal-2024-assistantbench,
