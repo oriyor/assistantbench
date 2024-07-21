@@ -2,7 +2,9 @@
 
 [**AssistantBench**](https://oriyor.github.io/AssistantBench) evaluates the ability of AI agents to solve reaslistic and time-consuming web tasks such as “Which gyms near me have fitness classes on the weekend, before 7AM?".
 
-![Alt text](images/overview.png?raw=true "AssistantBench example")
+<p align="center">
+  <img src="images/overview.png?raw=true" alt="AssistantBench example">
+</p>
 
 ### ⛰️ Dataset and leaderboard
 To start working on AssistantBench, please check out our HuggingFace [dataset](https://huggingface.co/spaces/AssistantBench/AssistantBench) and [leaderboard](https://huggingface.co/spaces/AssistantBench/leaderboard), where you can also make new submissions.
