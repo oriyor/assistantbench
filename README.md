@@ -14,12 +14,13 @@ We also introduce SeePlanAct (SPA), a new web agent built to tackle tasks in Ass
 
 ### ✍ Citation
 ```
-@article{yoran-etal-2024-assistantbench,
-    title={AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?},
-    author={Ori Yoran and Samuel Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant},
-    year={2024},
-    eprint={?},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@misc{yoran2024assistantbenchwebagentssolve,
+      title={AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?}, 
+      author={Ori Yoran and Samuel Joseph Amouyal and Chaitanya Malaviya and Ben Bogin and Ofir Press and Jonathan Berant},
+      year={2024},
+      eprint={2407.15711},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.15711}, 
 }
 ```
