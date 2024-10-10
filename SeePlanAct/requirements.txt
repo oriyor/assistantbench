@@ -1,0 +1,98 @@
+aioconsole==0.7.1
+aiohttp==3.9.5
+aiosignal==1.3.1
+annotated-types==0.7.0
+anyio==4.3.0
+asttokens==2.4.1
+async-timeout==4.0.3
+attrs==23.2.0
+backoff==2.2.1
+beautifulsoup4==4.12.3
+boto3==1.34.149
+botocore==1.34.149
+certifi==2024.2.2
+charset-normalizer==3.3.2
+decorator==5.1.1
+distro==1.9.0
+exceptiongroup==1.2.1
+executing==2.0.1
+fastjsonschema==2.19.1
+filelock==3.14.0
+frozenlist==1.4.1
+fsspec==2024.5.0
+google_search_results==2.4.2
+greenlet==3.0.3
+h11==0.14.0
+httpcore==1.0.5
+httpx==0.27.0
+huggingface-hub==0.23.0
+idna==3.7
+inquirerpy==0.3.4
+ipython==8.24.0
+jedi==0.19.1
+Jinja2==3.1.4
+jmespath==1.0.1
+joblib==1.4.2
+jsonlines==4.0.0
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+jupyter_core==5.7.2
+kaleido==0.2.1
+lxml==4.9.3
+MarkupSafe==2.1.5
+matplotlib-inline==0.1.7
+mpmath==1.3.0
+multidict==6.0.5
+nbformat==5.10.4
+networkx==3.3
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1707225538192/work/dist/numpy-1.26.4-cp310-cp310-macosx_10_9_x86_64.whl#sha256=d544e550b9582a12a12839ddf251b97a80a022b3d4c11cede2fb4bd206b16856
+openai==0.27.8
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1715897681148/work
+parso==0.8.4
+pexpect==4.9.0
+pfzy==0.3.4
+pillow==10.3.0
+platformdirs==4.2.2
+playwright==1.44.0
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1714829923649/work
+prompt-toolkit==3.0.43
+protobuf==5.26.1
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pydantic==2.7.1
+pydantic_core==2.18.2
+pyee==11.1.0
+Pygments==2.18.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML==6.0.1
+referencing==0.35.1
+regex==2024.5.15
+requests==2.32.1
+rpds-py==0.18.1
+s3transfer==0.10.2
+safetensors==0.4.3
+scikit-learn==1.4.2
+scipy==1.13.0
+sentence-transformers==2.7.0
+serpapi==0.1.5
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sniffio==1.3.1
+soupsieve==2.5
+stack-data==0.6.3
+sympy==1.12
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1715217510152/work
+threadpoolctl==3.5.0
+tiktoken==0.7.0
+tokenizers==0.19.1
+toml==0.10.2
+torch==2.2.2
+tqdm==4.66.4
+traitlets==5.14.3
+transformers==4.41.0
+typing_extensions==4.11.0
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3==2.2.1
+wcwidth==0.2.13
+yarl==1.9.4
